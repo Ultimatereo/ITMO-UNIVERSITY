@@ -12,23 +12,21 @@
   * *3 Лабараторная работа. Динамическое программирование*
       * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/lab3/problem.pdf)
       * [Решения](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/lab3)       
+      * 
+[Линейная алгебра](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/linear-algebra)
+----
+
+  * *Матричные операции*
+      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/Lab_1.pdf)
+      * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/lab1.py)
+  * *Веселый канонир*
+      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/Lab_2-3.pdf)
+      * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/lab2.py)
 
 [Введение в программирование](https://github.com/maxim092001/Itmo-University/tree/master/prog-intro-homework)
 ----
   * [Условия и реализация всех заданий](https://github.com/maxim092001/Itmo-University/tree/master/prog-intro-homework)
 
-[Линейная алгебра](https://github.com/maxim092001/Itmo-University/tree/master/linear-algebra)
-----
-
-  * *Матричные операции*
-      * [Условия](https://github.com/maxim092001/Itmo-University/blob/master/linear-algebra/matrix/problem.pdf)
-      * [Реализация](https://github.com/maxim092001/Itmo-University/blob/master/linear-algebra/matrix/matrix.py)
-  * *Веселый канонир*
-      * [Условия](https://github.com/maxim092001/Itmo-University/blob/master/linear-algebra/boat/problem.pdf)
-      * [Реализация](https://github.com/maxim092001/Itmo-University/blob/master/linear-algebra/boat/Boat.py)
-  * *Куб-3 Трассировка*
-      * [Условия](https://github.com/maxim092001/Itmo-University/blob/master/linear-algebra/plane/problem.pdf)
-      * [Реализация](https://github.com/maxim092001/Itmo-University/blob/master/linear-algebra/plane/main.py)
     
 [Дискретная математика](https://github.com/maxim092001/Itmo-University/tree/master/discrete-math)
 ----
