@@ -31,6 +31,8 @@
   
   * *1 Лабараторная работа. Булевые функции.*
     * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/discrete-math/lab1)
+  * *2 Лабараторная работа. Комбинаторика*
+    * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/discrete-math/lab2)
   
 
 
