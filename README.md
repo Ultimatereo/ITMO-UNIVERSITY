@@ -15,7 +15,10 @@
      
 [Линейная алгебра](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/linear-algebra)
 ----
-
+  * *[Домашние задания](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/linear-algebra/ДЗ)*
+  * *[Контрольные работы](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/linear-algebra/КР)*
+  * *[Рубежка](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/Рубежка.pdf)*
+      
   * *Матричные операции*
       * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/Lab_1.pdf)
       * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/lab1.py)
