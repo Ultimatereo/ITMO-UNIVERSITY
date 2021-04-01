@@ -25,19 +25,16 @@
   * *Веселый канонир*
       * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/Lab_2-3.pdf)
       * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/lab2.py)
+      * 
+[Дискретная математика](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/discrete-math)
+----
+  
+  * *1 Лабараторная работа. Булевые функции.*
+    **
+
 
 [Введение в программирование](https://github.com/maxim092001/Itmo-University/tree/master/prog-intro-homework)
 ----
   * [Условия и реализация всех заданий](https://github.com/maxim092001/Itmo-University/tree/master/prog-intro-homework)
 
     
-[Дискретная математика](https://github.com/maxim092001/Itmo-University/tree/master/discrete-math)
-----
-  
-  * *Графы*
-      * [Условия](https://github.com/maxim092001/Itmo-University/blob/master/discrete-math/graphs/problem.pdf)
-      * [Реализация](https://github.com/maxim092001/Itmo-University/blob/master/discrete-math/graphs)    
-  * *Матроиды*
-      * [Условия](https://github.com/maxim092001/Itmo-University/blob/master/discrete-math/matroids/problem.pdf)
-      * [Реализация](https://github.com/maxim092001/Itmo-University/blob/master/discrete-math/matroids)
-      
