@@ -34,5 +34,6 @@
   * *2 Лабараторная работа. Комбинаторика*
     * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/discrete-math/lab2)
   
-
+[Архитектура ЭВМ](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/computer-architecture)
+----
     
