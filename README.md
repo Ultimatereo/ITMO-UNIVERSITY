@@ -3,12 +3,15 @@
 [Алгоритмы и структуры данных](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms)
 ----
   
-  * *Дерево отрезков*
-      * [Условия](https://github.com/maxim092001/Itmo-University/blob/master/algorithms/segment-tree/problem.pdf)
-      * [Реализация](https://github.com/maxim092001/Itmo-University/blob/master/algorithms/segment-tree)
-  * *Графы*
-      * [Условия](https://github.com/maxim092001/Itmo-University/blob/master/algorithms/graph/problem.pdf)
-      * [Реализация](https://github.com/maxim092001/Itmo-University/blob/master/algorithms/graph)    
+  * *1 Лабараторная работа. Сортировки, куча, бинпоиск.*
+      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/algorithms/1st-course/lab1/problem.pdf)
+      * [Решения](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/lab1)
+  * *2 Лабараторная работа. Стеки, очереди, СНМ*
+      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/lab2/problem.pdf)
+      * [Решения](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/lab2)  
+  * *3 Лабараторная работа. Динамическое программирование*
+      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/lab3/problem.pdf)
+      * [Решения](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/lab3)       
 
 [Введение в программирование](https://github.com/maxim092001/Itmo-University/tree/master/prog-intro-homework)
 ----
