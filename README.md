@@ -36,4 +36,6 @@
   
 [Архитектура ЭВМ](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/computer-architecture)
 ----
-    
+
+[Введение в программирование](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/programming)
+----
