@@ -12,7 +12,7 @@
   * *3 Лабараторная работа. Динамическое программирование*
       * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/lab3/problem.pdf)
       * [Решения](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/lab3)       
-      * 
+     
 [Линейная алгебра](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/linear-algebra)
 ----
 
