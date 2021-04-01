@@ -39,3 +39,8 @@
 
 [Введение в программирование](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/programming)
 ----
+
+[Математический анализ](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/calculus)
+  * *50 [Производных из Демидовича и Кудрявцева](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/calculus/50%20derivatives.pdf)* **[Исправленная ошибка](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/calculus/K13.83%20mistake.pdf)**
+  
+----
