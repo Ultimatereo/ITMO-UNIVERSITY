@@ -35,9 +35,4 @@
     * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/discrete-math/lab2)
   
 
-
-[Введение в программирование](https://github.com/maxim092001/Itmo-University/tree/master/prog-intro-homework)
-----
-  * [Условия и реализация всех заданий](https://github.com/maxim092001/Itmo-University/tree/master/prog-intro-homework)
-
     
