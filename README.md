@@ -12,7 +12,7 @@
   * *3 Лабараторная работа. Динамическое программирование*
       * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/lab3/problem.pdf)
       * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/lab3)       
-  * * Лабараторная работа за второй семестр. Деревья.*
+  * *Лабараторная работа за второй семестр. Деревья.*
       * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/sem2/problem.pdf)
       * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/sem2)    
 [Линейная алгебра](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/linear-algebra)
