@@ -57,13 +57,17 @@
 [Парадигмы программирования](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/paradigms)
 ----
 
-*C/C++*
+[C/C++](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/C-and-C%2B%2B)
 ----
   * *1 Лабораторная работа. Решение системы уравнений.*
+    * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/C-and-C%2B%2B/КТ_2022_1.docx)
   * *2 Лабораторная работа. Декодирование PNG.*
+    * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/C-and-C%2B%2B/КТ_2022_2.docx)
   * *3 Лабораторная работа. Сортировка.*
+    * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/C-and-C%2B%2B/КТ_2022_3.docx)
   * *4 Лабораторная работа. Длинная арифметика.*
-
+    * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/C-and-C%2B%2B/КТ_2022_4.docx)
+   
 [Математический анализ](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/calculus)
 ----
   * *[50 Производных из Демидовича и Кудрявцева](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/calculus/50%20derivatives.pdf)* *[Исправленная ошибка](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/calculus/K13.83%20mistake.pdf)*
