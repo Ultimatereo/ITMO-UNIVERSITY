@@ -41,14 +41,19 @@
 ----
 
   * *1 ДЗ. Построение логических схем и минимизация логических функций.*
+    * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/computer-architecture/HW1/КТ%20ЭВМ%202021.%20ДЗ%201.pdf)
     * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/computer-architecture/HW1)
   * *2 ДЗ. Построение сложных логических схем.*
+    * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/computer-architecture/HW2/КТ%202021.%20ДЗ%202.pdf)
     * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/computer-architecture/HW2)
   * *3 ДЗ. Кэш-память.*
+    * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/computer-architecture/HW3/КТ%202021.%20ДЗ%203.pdf)
     * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/computer-architecture/HW3)
   * *4 ДЗ. ISA. Ассемблер, дизассемблер.*
+    * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/computer-architecture/HW4/КТ%20ЭВМ%202021.%20ДЗ%204.pdf)
     * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/computer-architecture/HW4)
   * *5 ДЗ. OpenMP.*
+    * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/computer-architecture/HW5/КТ%20ЭВМ%202021.%20ДЗ%205.pdf)
     * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/computer-architecture/HW5)
     
 [Введение в программирование](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/prog-intro)
@@ -60,16 +65,16 @@
 [C/C++](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/C-and-C%2B%2B)
 ----
   * *1 Лабораторная работа. Решение системы уравнений.*
-    * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/C-and-C%2B%2B/КТ_2022_1.docx)
+    * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/C-and-C%2B%2B/КТ_2022_1.pdf)
     * [Реализация](https://github.com/skkv-itmo/c_1-Ultimatereo)
   * *2 Лабораторная работа. Декодирование PNG.*
-    * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/C-and-C%2B%2B/КТ_2022_2.docx)
+    * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/C-and-C%2B%2B/КТ_2022_2.pdf)
     * [Реализация](https://github.com/skkv-itmo/c_2-Ultimatereo)
   * *3 Лабораторная работа. Сортировка.*
-    * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/C-and-C%2B%2B/КТ_2022_3.docx)
+    * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/C-and-C%2B%2B/КТ_2022_3.pdf)
     * [Реализация](https://github.com/skkv-itmo/cpp_1-Ultimatereo)
   * *4 Лабораторная работа. Длинная арифметика.*
-    * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/C-and-C%2B%2B/КТ_2022_4.docx)
+    * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/C-and-C%2B%2B/КТ_2022_4.pdf)
     * [Реализация](https://github.com/skkv-itmo/cpp_2-Ultimatereo)
    
 [Математический анализ](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/calculus)
