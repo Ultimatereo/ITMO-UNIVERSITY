@@ -50,6 +50,7 @@
     * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/computer-architecture/АрхЭВМ 4 дз)
   * *5 ДЗ. OpenMP.*
     * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/computer-architecture/АрхЭВМ 5 дз)
+    
 [Введение в программирование](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/programming)
 ----
 
