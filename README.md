@@ -61,12 +61,16 @@
 ----
   * *1 Лабораторная работа. Решение системы уравнений.*
     * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/C-and-C%2B%2B/КТ_2022_1.docx)
+    * [Реализация](https://github.com/skkv-itmo/c_1-Ultimatereo)
   * *2 Лабораторная работа. Декодирование PNG.*
     * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/C-and-C%2B%2B/КТ_2022_2.docx)
+    * [Реализация](https://github.com/skkv-itmo/c_2-Ultimatereo)
   * *3 Лабораторная работа. Сортировка.*
     * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/C-and-C%2B%2B/КТ_2022_3.docx)
+    * [Реализация](https://github.com/skkv-itmo/cpp_1-Ultimatereo)
   * *4 Лабораторная работа. Длинная арифметика.*
     * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/C-and-C%2B%2B/КТ_2022_4.docx)
+    * [Реализация](https://github.com/skkv-itmo/cpp_2-Ultimatereo)
    
 [Математический анализ](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/calculus)
 ----
