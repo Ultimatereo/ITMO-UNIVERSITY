@@ -1,5 +1,11 @@
 ### Практические задания Университет ИТМО
 
+[Введение в программирование](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/prog-intro)
+----
+
+[Парадигмы программирования](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/paradigms)
+----
+
 [Алгоритмы и структуры данных](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms)
 ----
   
@@ -16,19 +22,7 @@
       * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/sem2/problem.pdf)
       * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/sem2)    
       
-[Линейная алгебра](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/linear-algebra)
-----
-  * *[Домашние задания](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/linear-algebra/ДЗ)*
-  * *[Контрольные работы](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/linear-algebra/КР)*
-  * *[Рубежка](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/Рубежка.pdf)*
-      
-  * *Матричные операции*
-      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/Lab_1.pdf)
-      * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/lab1.py)
-  * *Веселый канонир*
-      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/Lab_2-3.pdf)
-      * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/lab2.py)
-      
+ 
 [Дискретная математика](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/discrete-math)
 ----
   
@@ -55,12 +49,6 @@
   * *5 ДЗ. OpenMP.*
     * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/computer-architecture/HW5/КТ%20ЭВМ%202021.%20ДЗ%205.pdf)
     * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/computer-architecture/HW5)
-    
-[Введение в программирование](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/prog-intro)
-----
-
-[Парадигмы программирования](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/paradigms)
-----
 
 [C/C++](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/C-and-C%2B%2B)
 ----
@@ -77,6 +65,19 @@
     * [Условие](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/C-and-C%2B%2B/КТ_2022_4.pdf)
     * [Реализация](https://github.com/skkv-itmo/cpp_2-Ultimatereo)
    
+[Линейная алгебра](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/linear-algebra)
+----
+  * *[Домашние задания](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/linear-algebra/ДЗ)*
+  * *[Контрольные работы](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/linear-algebra/КР)*
+  * *[Рубежка](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/Рубежка.pdf)*
+      
+  * *Матричные операции*
+      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/Lab_1.pdf)
+      * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/lab1.py)
+  * *Веселый канонир*
+      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/Lab_2-3.pdf)
+      * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/linear-algebra/lab2.py)
+     
 [Математический анализ](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/calculus)
 ----
   * *[50 Производных из Демидовича и Кудрявцева](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/calculus/50%20derivatives.pdf)* *[Исправленная ошибка](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/calculus/K13.83%20mistake.pdf)*
