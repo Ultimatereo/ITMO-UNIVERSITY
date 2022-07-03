@@ -51,7 +51,10 @@
   * *5 ДЗ. OpenMP.*
     * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/computer-architecture/HW5)
     
-[Введение в программирование](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/programming)
+[Введение в программирование](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/prog-intro)
+----
+
+[Парадигмы программирования](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/paradigms)
 ----
 
 [Математический анализ](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/calculus)
