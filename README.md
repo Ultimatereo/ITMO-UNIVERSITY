@@ -40,6 +40,16 @@
 [Архитектура ЭВМ](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/computer-architecture)
 ----
 
+  * *1 ДЗ. Построение логических схем и минимизация логических функций.*
+    * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/computer-architecture/АрхЭВМ 1 дз)
+  * *2 ДЗ. Построение сложных логических схем.*
+    * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/computer-architecture/АрхЭВМ 2 дз)
+  * *3 ДЗ. Кэш-память.*
+    * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/computer-architecture/АрхЭВМ 3 дз)
+  * *4 ДЗ. ISA. Ассемблер, дизассемблер.*
+    * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/computer-architecture/АрхЭВМ 4 дз)
+  * *5 ДЗ. OpenMP.*
+    * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/computer-architecture/АрхЭВМ 5 дз)
 [Введение в программирование](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/programming)
 ----
 
