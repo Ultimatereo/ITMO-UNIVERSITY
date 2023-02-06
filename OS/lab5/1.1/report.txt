@@ -1,0 +1,463 @@
+
+System memory parameter values:
+2851.9 -total 1791.5 -free 682.0 -used 378.4 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 1872.7 -buff/cashe
+
+ 7309 ultimat+  20   0   88084  82672   3000 R  93.8   2.8   0:15.62 bash
+
+ 7309 ultimat+  20   0   88876  83464   3000 R 100.0   2.9   0:15.77 bash
+    1 root      20   0    2468    588    388 S   0.0   0.0   0:21.23 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.39 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 1715.7 -free 757.8 -used 378.5 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 1797.2 -buff/cashe
+
+ 7309 ultimat+  20   0  165304 159760   3000 R 100.0   5.5   0:31.40 bash
+
+ 7309 ultimat+  20   0  166228 160552   3000 R 100.0   5.5   0:31.55 bash
+    1 root      20   0    2032    444    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.39 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 1629.8 -free 843.6 -used 378.5 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 1710.8 -buff/cashe
+
+ 7309 ultimat+  20   0  253612 248200   3000 R 100.0   8.5   0:47.18 bash
+
+ 7309 ultimat+  20   0  254536 248992   3000 R 100.0   8.5   0:47.34 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.39 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 1543.7 -free 929.8 -used 378.5 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 1624.7 -buff/cashe
+
+ 7309 ultimat+  20   0  341656 336112   3000 R 100.0  11.5   1:02.96 bash
+
+ 7309 ultimat+  20   0  342580 336904   3000 R 100.0  11.5   1:03.12 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.39 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 1455.6 -free 1017.8 -used 378.5 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 1536.9 -buff/cashe
+
+ 7309 ultimat+  20   0  431548 426136   3000 R 100.0  14.6   1:18.74 bash
+
+ 7309 ultimat+  20   0  432472 426928   3000 R 100.0  14.6   1:18.89 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.39 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 1369.9 -free 1103.5 -used 378.5 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 1450.9 -buff/cashe
+
+ 7309 ultimat+  20   0  519724 514048   3000 R 100.0  17.6   1:34.53 bash
+
+ 7309 ultimat+  20   0  520516 515104   3000 R 100.0  17.6   1:34.69 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.39 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 1285.6 -free 1187.7 -used 378.6 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 1366.8 -buff/cashe
+
+ 7309 ultimat+  20   0  606052 600640   3000 R 100.0  20.6   1:50.31 bash
+
+ 7309 ultimat+  20   0  606976 601432   3000 R 100.0  20.6   1:50.48 bash
+ 7440 ultimat+  20   0   10740   3544   3092 R   6.2   0.1   0:00.01 top
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 1198.6 -free 1274.7 -used 378.6 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 1279.8 -buff/cashe
+
+ 7309 ultimat+  20   0  694492 689080   3000 R 100.0  23.6   2:06.10 bash
+
+ 7309 ultimat+  20   0  695416 689872   3000 R 100.0  23.6   2:06.25 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.39 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 1117.2 -free 1356.2 -used 378.6 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 1198.3 -buff/cashe
+
+ 7309 ultimat+  20   0  777652 771976   3000 R 100.0  26.4   2:21.86 bash
+
+ 7309 ultimat+  20   0  778444 773032   3000 R  87.5  26.5   2:22.01 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.39 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 1036.0 -free 1437.3 -used 378.6 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 1117.9 -buff/cashe
+
+ 7309 ultimat+  20   0  860152 854608   3000 R 100.0  29.3   2:37.66 bash
+
+ 7309 ultimat+  20   0  860548 855136   3000 R  93.8  29.3   2:37.82 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.39 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 1001.8 -free 1471.5 -used 378.6 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 1083.7 -buff/cashe
+
+ 7309 ultimat+  20   0  893812 888400   3000 R 100.0  30.4   2:53.50 bash
+
+ 7309 ultimat+  20   0  894076 888664   3000 R 100.0  30.4   2:53.65 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.39 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 953.8 -free 1519.5 -used 378.7 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 1035.7 -buff/cashe
+
+ 7309 ultimat+  20   0  943312 937768   3000 R 100.0  32.1   3:09.29 bash
+
+ 7309 ultimat+  20   0  944104 938560   3000 R 100.0  32.1   3:09.45 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.39 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 876.7 -free 1596.5 -used 378.7 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 958.0 -buff/cashe
+
+ 7309 ultimat+  20   0 1022908 993.6m   3000 R 100.0  34.8   3:25.07 bash
+
+ 7309 ultimat+  20   0 1023700 994.4m   3000 R 100.0  34.9   3:25.23 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.39 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 794.6 -free 1678.7 -used 378.7 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 875.8 -buff/cashe
+
+ 7309 ultimat+  20   0 1106860   1.1g   3000 R 100.0  37.7   3:40.85 bash
+
+ 7309 ultimat+  20   0 1107652   1.1g   3000 R 100.0  37.7   3:41.01 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.44 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 715.5 -free 1757.7 -used 378.7 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 796.8 -buff/cashe
+
+ 7309 ultimat+  20   0 1185796   1.1g   3000 R 100.0  40.4   3:56.64 bash
+
+ 7309 ultimat+  20   0 1186456   1.1g   3000 R 100.0  40.4   3:56.79 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.44 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 636.5 -free 1836.7 -used 378.7 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 717.9 -buff/cashe
+
+ 7309 ultimat+  20   0 1266448   1.2g   3000 R  93.8  43.2   4:12.43 bash
+
+ 7309 ultimat+  20   0 1267240   1.2g   3000 R  93.8  43.2   4:12.59 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.44 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 556.7 -free 1916.5 -used 378.8 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 638.5 -buff/cashe
+
+ 7309 ultimat+  20   0 1348156   1.3g   3000 R 100.0  46.0   4:28.22 bash
+
+ 7309 ultimat+  20   0 1348948   1.3g   3000 R 100.0  46.0   4:28.38 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.44 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 474.8 -free 1998.3 -used 378.8 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 556.4 -buff/cashe
+
+ 7309 ultimat+  20   0 1431976   1.4g   3000 R 100.0  48.8   4:44.00 bash
+
+ 7309 ultimat+  20   0 1432768   1.4g   3000 R 100.0  48.9   4:44.16 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.44 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 392.7 -free 2080.5 -used 378.8 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 474.5 -buff/cashe
+
+ 7309 ultimat+  20   0 1515928   1.4g   3000 R 100.0  51.7   4:59.78 bash
+
+ 7309 ultimat+  20   0 1516720   1.4g   3000 R 100.0  51.7   4:59.94 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.44 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 310.0 -free 2163.2 -used 378.8 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 391.1 -buff/cashe
+
+ 7309 ultimat+  20   0 1600672   1.5g   3000 R 100.0  54.6   5:15.56 bash
+
+ 7309 ultimat+  20   0 1601596   1.5g   3000 R 100.0  54.7   5:15.72 bash
+ 7637 ultimat+  20   0   12896   3268   3044 S   6.2   0.1   0:00.01 awk
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 231.7 -free 2241.4 -used 378.8 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 313.5 -buff/cashe
+
+ 7309 ultimat+  20   0 1680004   1.6g   3000 R 100.0  57.3   5:31.36 bash
+
+ 7309 ultimat+  20   0 1680796   1.6g   3000 R 100.0  57.4   5:31.51 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.44 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 156.4 -free 2316.7 -used 378.9 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 237.8 -buff/cashe
+
+ 7309 ultimat+  20   0 1757488   1.7g   3000 R 100.0  60.0   5:47.15 bash
+
+ 7309 ultimat+  20   0 1758280   1.7g   3000 R 100.0  60.0   5:47.30 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.44 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 79.3 -free 2393.8 -used 378.9 -buff/cashe
+1024.0 -total 547.0 -free 477.0 -used 160.7 -buff/cashe
+
+ 7309 ultimat+  20   0 1836028   1.7g   3000 R 100.0  62.7   6:02.92 bash
+
+ 7309 ultimat+  20   0 1836820   1.7g   3000 R 100.0  62.7   6:03.08 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13056   1380 S   0.0   0.4   0:02.44 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 78.2 -free 2446.0 -used 327.8 -buff/cashe
+1024.0 -total 558.8 -free 465.2 -used 109.2 -buff/cashe
+
+ 7309 ultimat+  20   0 1902820   1.8g   3000 R 100.0  65.0   6:18.84 bash
+
+ 7309 ultimat+  20   0 1903348   1.8g   3000 R 100.0  65.0   6:18.99 bash
+    1 root      20   0    1944    440    388 S   0.0   0.0   0:21.31 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  12100    424 S   0.0   0.4   0:02.44 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 76.8 -free 2471.5 -used 303.6 -buff/cashe
+1024.0 -total 579.0 -free 445.0 -used 100.7 -buff/cashe
+
+ 7309 ultimat+  20   0 1962880   1.9g   3000 R 100.0  67.0   6:34.63 bash
+
+ 7309 ultimat+  20   0 1963540   1.9g   3000 R 100.0  67.1   6:34.79 bash
+    1 root      20   0    2468    512    388 S   0.0   0.0   0:21.52 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  11992    316 S   0.0   0.4   0:02.44 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 70.3 -free 2524.1 -used 257.6 -buff/cashe
+1024.0 -total 551.2 -free 472.8 -used 71.8 -buff/cashe
+
+ 7309 ultimat+  20   0 2029408   1.9g   3000 R 100.0  69.3   6:50.19 bash
+
+ 7309 ultimat+  20   0 2030068   1.9g   3000 R 100.0  69.3   6:50.35 bash
+    1 root      20   0    2468    464    388 S   0.0   0.0   0:21.55 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  11788    112 S   0.0   0.4   0:02.44 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 77.5 -free 2576.6 -used 197.8 -buff/cashe
+1024.0 -total 548.1 -free 475.9 -used 44.0 -buff/cashe
+
+ 7309 ultimat+  20   0 2088412   2.0g   2980 R 100.0  71.3   7:05.97 bash
+
+ 7309 ultimat+  20   0 2089072   2.0g   2980 R 100.0  71.3   7:06.13 bash
+    1 root      20   0    2556    376    376 S   0.0   0.0   0:21.88 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  11676      0 S   0.0   0.4   0:02.44 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 76.9 -free 2602.2 -used 172.8 -buff/cashe
+1024.0 -total 484.4 -free 539.6 -used 32.0 -buff/cashe
+
+ 7309 ultimat+  20   0 2151376   2.0g   2744 R 100.0  72.6   7:22.02 bash
+
+ 7309 ultimat+  20   0 2152168   2.0g   2744 R  83.3  72.6   7:22.21 bash
+    1 root      20   0    2556    316    316 S   0.0   0.0   0:22.20 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  11664      0 S   0.0   0.4   0:02.44 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 83.4 -free 2593.4 -used 175.2 -buff/cashe
+1024.0 -total 390.6 -free 633.4 -used 39.5 -buff/cashe
+
+ 7309 ultimat+  20   0 2211172   2.0g   2692 R 100.0  71.4   7:37.86 bash
+
+ 7309 ultimat+  20   0 2211964   2.0g   2692 R 100.0  71.4   7:38.02 bash
+    1 root      20   0    2556    112    112 S   0.0   0.0   0:22.64 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  11664      0 S   0.0   0.4   0:02.44 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 77.4 -free 2572.5 -used 202.0 -buff/cashe
+1024.0 -total 306.9 -free 717.1 -used 46.7 -buff/cashe
+
+ 7309 ultimat+  20   0 2279152   2.0g   2692 R 100.0  70.6   7:53.65 bash
+
+ 7309 ultimat+  20   0 2279944   2.0g   2692 R 100.0  70.7   7:53.81 bash
+    1 root      20   0    2032    140    112 S   0.0   0.0   0:22.66 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13000   1328 S   0.0   0.4   0:02.49 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 94.6 -free 2559.4 -used 197.9 -buff/cashe
+1024.0 -total 221.1 -free 802.9 -used 62.7 -buff/cashe
+
+ 7309 ultimat+  20   0 2346736   1.9g   2692 R 100.0  70.0   8:09.57 bash
+
+ 7309 ultimat+  20   0 2347264   1.9g   2692 R 100.0  70.0   8:09.72 bash
+ 7310 ultimat+  20   0    8752   2940   2756 S   6.7   0.1   0:00.34 bash
+    1 root      20   0    2568    132    132 S   0.0   0.0   0:23.01 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 69.5 -free 2577.7 -used 204.7 -buff/cashe
+1024.0 -total 220.1 -free 803.9 -used 40.1 -buff/cashe
+
+ 7309 ultimat+  20   0 2411944   2.0g   2692 R 100.0  72.2   8:25.37 bash
+
+ 7309 ultimat+  20   0 2412736   2.0g   2692 R 100.0  72.2   8:25.52 bash
+    1 root      20   0    2568    132    132 S   0.0   0.0   0:23.24 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13000   1328 S   0.0   0.4   0:02.49 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 73.8 -free 2576.6 -used 201.6 -buff/cashe
+1024.0 -total 133.0 -free 891.0 -used 42.6 -buff/cashe
+
+ 7309 ultimat+  20   0 2485996   2.0g   2684 R 100.0  71.7   8:41.17 bash
+
+ 7309 ultimat+  20   0 2486656   2.0g   2684 R 100.0  71.7   8:41.33 bash
+    1 root      20   0    2480    348    168 S   0.0   0.0   0:23.33 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13000   1328 S   0.0   0.4   0:02.49 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 77.0 -free 2564.0 -used 211.0 -buff/cashe
+1024.0 -total 54.1 -free 969.9 -used 51.0 -buff/cashe
+
+ 7309 ultimat+  20   0 2553712   2.0g   2684 R 100.0  71.2   8:56.98 bash
+
+ 7309 ultimat+  20   0 2554240   2.0g   2684 R 100.0  71.3   8:57.14 bash
+    1 root      20   0    2044    196    168 S   0.0   0.0   0:23.33 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  13000   1328 S   0.0   0.4   0:02.49 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 76.8 -free 2562.4 -used 212.8 -buff/cashe
+1024.0 -total 0.1 -free 1023.9 -used 51.7 -buff/cashe
+
+ 7309 ultimat+  20   0 2625784   2.0g   2684 R 100.0  71.8   9:12.79 bash
+
+ 7309 ultimat+  20   0 2626576   2.0g   2684 R 100.0  71.8   9:12.94 bash
+    1 root      20   0    1956    192    168 S   0.0   0.0   0:23.33 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+  124 root      20   0 1310396  12400    728 S   0.0   0.4   0:02.49 docker-desktop-
+
+System memory parameter values:
+2851.9 -total 66.4 -free 2632.9 -used 152.6 -buff/cashe
+1024.0 -total 0.0 -free 1024.0 -used 16.7 -buff/cashe
+
+ 7309 ultimat+  20   0 2707492   2.1g    556 R  88.2  74.5   9:28.81 bash
+
+ 7309 ultimat+  20   0 2708020   2.1g    292 R  47.4  74.5   9:28.97 bash
+ 8259 ultimat+  20   0   10740   1144    660 R   5.3   0.0   0:00.01 top
+    1 root      20   0    1956     24      0 S   0.0   0.0   0:23.33 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 71.2 -free 2639.6 -used 141.1 -buff/cashe
+1024.0 -total 0.0 -free 1024.0 -used 10.4 -buff/cashe
+
+ 7309 ultimat+  20   0 2713564   2.1g    244 D   5.7  74.7   9:35.69 bash
+
+    1 root      20   0    2304    404      0 S  18.6   0.0   0:27.19 init
+  134 ultimat+  20   0  764008  16164      0 S  10.2   0.6   0:31.48 docker
+ 7309 ultimat+  20   0 2714092   2.1g      0 R  10.2  74.7   9:36.61 bash
+ 8275 ultimat+  20   0   10740    552     64 R   3.4   0.0   0:00.58 top
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+
+System memory parameter values:
+2851.9 -total 64.4 -free 2645.9 -used 141.6 -buff/cashe
+1024.0 -total 0.0 -free 1024.0 -used 3.0 -buff/cashe
+
+ 7309 ultimat+  20   0 2719768   2.1g      0 R  27.7  74.9   9:42.88 bash
+
+ 7309 ultimat+  20   0 2721088   2.1g      0 D  20.8  74.9   9:43.66 bash
+    1 root      20   0    2304    404      0 S  16.7   0.0   0:31.88 init
+  134 ultimat+  20   0  764008  16164      0 S   4.2   0.6   0:35.39 docker
+ 4441 root      20   0    2372     36      0 R   4.2   0.0   0:01.60 init
+ 8291 ultimat+  20   0   10740    484      0 R   2.1   0.0   0:00.15 top
+
+System memory parameter values:
+2851.9 -total 55.9 -free 2655.6 -used 140.4 -buff/cashe
+1024.0 -total 0.0 -free 1024.0 -used 16.8 -buff/cashe
+
+[16707.738920] Out of memory: Killed process 8989 (bash) total-vm:2727292kB, anon-rss:2194440kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:5376kB oom_score_adj:0
+[16707.962960] oom_reaper: reaped process 8989 (bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB

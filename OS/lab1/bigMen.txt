@@ -1,0 +1,8 @@
+F F 5
+E E 5
+Andrey Andreev 5
+Petya Grekov 4
+D D 4
+Sanya Sanya 3
+Jotaro Kujo 3
+C C 3

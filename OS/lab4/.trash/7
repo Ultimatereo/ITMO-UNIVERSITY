@@ -1,0 +1,68 @@
+#!/bin/bash
+file=$PWD/$1
+trashDir=$PWD/.trash
+logFile=$PWD/trash.log
+countFile=$PWD/count
+
+if [[ $# < 1 ]]; then
+	echo "You should write one argument which is the name of the file you want to restore in current catalog!"
+	exit 1
+fi 
+
+# if  [[ ! -f $file ]]; then
+# 	echo "File $1 wasn't found!"
+# 	exit 2;
+# fi
+
+# if  [[ ! -d $trashDir ]]; then
+# 	mkdir $trashDir
+# fi
+
+# if  [[ ! -f $countFile ]]; then
+# 	echo "0"  > $countFile
+# fi
+
+# count="$(cat $countFile)"
+# hardLink=$trashDir/$count
+
+# ln $file $hardLink
+
+# count=$(($count+1))
+
+# echo $count > $countFile
+
+# rm $file
+
+# echo "$file > $hardLink" >> $logFile
+grep -P "(^[\w\/]+\/$1)(?=\s)" trash.log | while read -r line ; do
+	while true; do
+		read -r -p "Do you want to restore $line? Y\N "  answer < /dev/tty
+		if [[ $answer = "Y" || $answer = "N" ]]
+		then
+			break
+		fi
+	done
+	if [ $answer = "Y" ]
+	then 
+		to_untrash=$(echo $line | cut -d " " -f 1)
+    		to_delete=$(echo $line | cut -d " " -f 3)
+		where=$(dirname $to_untrash)
+		echo $where
+		if [[ ! -d $where ]]; then
+        		echo "No original directory. Restoring at home"
+        		where = "~/oslab/lab4"
+        	fi
+		nameFile=$1
+		while [[ -f "$where/$nameFile"  ]]; do
+			read -r -p "file with this  name exists. please enter a new name"  nameFile < /dev/tty
+		done
+		ln "$to_delete" "$where/$nameFile" &&
+	        rm "$to_delete" &&
+       		{
+			 echo "$(grep -v "$to_delete" trash.log)" > trash.log
+      		     #	sed -i "\%$to_delete%d" trash.log
+       			echo "Restored $to_untrash"
+        	}
+	fi
+
+done

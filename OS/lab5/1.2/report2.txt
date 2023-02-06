@@ -1,0 +1,283 @@
+
+System memory parameter values:
+2851.9 -total 1927.8 -free 623.3 -used 300.8 -buff/cashe
+1024.0 -total 511.8 -free 512.2 -used 1973.1 -buff/cashe
+
+ 9066 ultimat+  20   0   68416  62780   2896 R 100.0   2.1   0:15.64 bash
+
+ 9064 ultimat+  20   0   68548  63252   3112 R 100.0   2.2   0:15.79 bash
+ 9066 ultimat+  20   0   69076  63572   2896 R 100.0   2.2   0:15.80 bash
+    1 root      20   0    2496    476    280 S   0.0   0.0   0:38.78 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 1804.3 -free 746.8 -used 300.9 -buff/cashe
+1024.0 -total 511.8 -free 512.2 -used 1850.4 -buff/cashe
+
+ 9066 ultimat+  20   0  131512 125876   2896 R 100.0   4.3   0:31.41 bash
+
+ 9064 ultimat+  20   0  131116 125820   3112 R 100.0   4.3   0:31.57 bash
+ 9066 ultimat+  20   0  132172 126404   2896 R 100.0   4.3   0:31.57 bash
+ 9065 ultimat+  20   0    8752   3520   3060 S   6.7   0.1   0:00.01 bash
+    1 root      20   0    2232    624    280 S   0.0   0.0   0:38.78 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+
+System memory parameter values:
+2851.9 -total 1683.2 -free 867.9 -used 300.9 -buff/cashe
+1024.0 -total 511.8 -free 512.2 -used 1729.1 -buff/cashe
+
+ 9066 ultimat+  20   0  194080 188444   2896 R 100.0   6.5   0:47.21 bash
+
+ 9064 ultimat+  20   0  193024 187596   3112 R 100.0   6.4   0:47.36 bash
+ 9066 ultimat+  20   0  194740 188972   2896 R 100.0   6.5   0:47.36 bash
+    1 root      20   0    2320    616    280 S   0.0   0.0   0:38.81 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 1566.3 -free 984.7 -used 300.9 -buff/cashe
+1024.0 -total 511.8 -free 512.2 -used 1612.0 -buff/cashe
+
+ 9066 ultimat+  20   0  254008 248372   2896 R  93.8   8.5   1:02.98 bash
+
+ 9064 ultimat+  20   0  252160 246732   3112 R 100.0   8.4   1:03.14 bash
+ 9066 ultimat+  20   0  254668 249164   2896 R 100.0   8.5   1:03.13 bash
+    1 root      20   0    2496    472    280 S   0.0   0.0   0:38.99 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 1438.8 -free 1112.2 -used 300.9 -buff/cashe
+1024.0 -total 511.8 -free 512.2 -used 1484.5 -buff/cashe
+
+ 9066 ultimat+  20   0  319216 313580   2896 R 100.0  10.7   1:18.77 bash
+
+ 9066 ultimat+  20   0  319744 314108   2896 R 100.0  10.8   1:18.92 bash
+ 9064 ultimat+  20   0  316840 311412   3112 R  93.3  10.7   1:18.91 bash
+    1 root      20   0    2320    548    280 S   0.0   0.0   0:39.02 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 1318.5 -free 1232.5 -used 300.9 -buff/cashe
+1024.0 -total 511.8 -free 512.2 -used 1364.4 -buff/cashe
+
+ 9066 ultimat+  20   0  380332 374828   2896 R 100.0  12.8   1:34.57 bash
+
+ 9066 ultimat+  20   0  380728 375092   2896 R  93.8  12.8   1:34.72 bash
+ 9064 ultimat+  20   0  377428 371868   3112 R  87.5  12.7   1:34.71 bash
+    1 root      20   0    2320    460    280 S   0.0   0.0   0:39.06 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 1207.7 -free 1343.2 -used 301.0 -buff/cashe
+1024.0 -total 511.8 -free 512.2 -used 1253.0 -buff/cashe
+
+ 9066 ultimat+  20   0  438016 432380   2896 R 100.0  14.8   1:50.34 bash
+
+ 9064 ultimat+  20   0  435112 429684   3112 R 100.0  14.7   1:50.49 bash
+ 9066 ultimat+  20   0  438676 433172   2896 R 100.0  14.8   1:50.50 bash
+    1 root      20   0    2320    460    280 S   0.0   0.0   0:39.12 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 1091.8 -free 1459.1 -used 301.0 -buff/cashe
+1024.0 -total 511.8 -free 512.2 -used 1137.5 -buff/cashe
+
+ 9066 ultimat+  20   0  497416 491780   2896 R 100.0  16.8   2:06.12 bash
+
+ 9064 ultimat+  20   0  494116 488556   3112 R 100.0  16.7   2:06.27 bash
+ 9066 ultimat+  20   0  498076 492572   2896 R 100.0  16.9   2:06.28 bash
+    1 root      20   0    1972    352    280 S   0.0   0.0   0:39.12 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 972.5 -free 1578.4 -used 301.0 -buff/cashe
+1024.0 -total 511.8 -free 512.2 -used 1018.0 -buff/cashe
+
+ 9066 ultimat+  20   0  558796 553292   2896 R 100.0  18.9   2:21.91 bash
+
+ 9064 ultimat+  20   0  554572 549276   3112 R 100.0  18.8   2:22.05 bash
+ 9066 ultimat+  20   0  559456 553820   2896 R 100.0  19.0   2:22.06 bash
+    1 root      20   0    1972    352    280 S   0.0   0.0   0:39.12 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 854.8 -free 1696.0 -used 301.0 -buff/cashe
+1024.0 -total 511.8 -free 512.2 -used 900.6 -buff/cashe
+
+ 9066 ultimat+  20   0  619384 613748   2896 R 100.0  21.0   2:37.69 bash
+
+ 9064 ultimat+  20   0  614104 608676   3112 R 100.0  20.8   2:37.85 bash
+ 9066 ultimat+  20   0  620044 614276   2896 R 100.0  21.0   2:37.85 bash
+    1 root      20   0    1972    352    280 S   0.0   0.0   0:39.12 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 727.1 -free 1823.8 -used 301.1 -buff/cashe
+1024.0 -total 511.8 -free 512.2 -used 773.4 -buff/cashe
+
+ 9066 ultimat+  20   0  684856 679220   2896 R 100.0  23.3   2:53.47 bash
+
+ 9064 ultimat+  20   0  679444 674148   3112 R  93.8  23.1   2:53.63 bash
+ 9066 ultimat+  20   0  685384 679748   2896 R  93.8  23.3   2:53.63 bash
+    1 root      20   0    1972    352    280 S   0.0   0.0   0:39.12 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 595.7 -free 1955.1 -used 301.1 -buff/cashe
+1024.0 -total 511.8 -free 512.2 -used 641.0 -buff/cashe
+
+ 9066 ultimat+  20   0  752176 746540   2896 R 100.0  25.6   3:09.25 bash
+
+ 9064 ultimat+  20   0  746236 740940   3112 R  93.8  25.4   3:09.41 bash
+ 9066 ultimat+  20   0  752836 747332   2896 R  93.8  25.6   3:09.41 bash
+    1 root      20   0    1972    352    280 S   0.0   0.0   0:39.12 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 476.8 -free 2074.0 -used 301.1 -buff/cashe
+1024.0 -total 511.8 -free 512.2 -used 522.7 -buff/cashe
+
+ 9066 ultimat+  20   0  812500 806996   2896 R 100.0  27.6   3:25.03 bash
+
+ 9064 ultimat+  20   0  806032 800604   3112 R 100.0  27.4   3:25.19 bash
+ 9066 ultimat+  20   0  813028 807524   2896 R 100.0  27.7   3:25.18 bash
+    1 root      20   0    2496    508    280 S   0.0   0.0   0:39.21 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 366.0 -free 2184.8 -used 301.1 -buff/cashe
+1024.0 -total 511.8 -free 512.2 -used 412.4 -buff/cashe
+
+ 9066 ultimat+  20   0  868204 862436   2896 R  94.1  29.5   3:40.91 bash
+
+ 9064 ultimat+  20   0  860944 855516   3112 R  71.4  29.3   3:41.17 bash
+ 9066 ultimat+  20   0  868600 862964   2896 R  71.4  29.5   3:41.16 bash
+ 9065 ultimat+  20   0    8752   3524   3060 S   4.8   0.1   0:00.05 bash
+ 9586 ultimat+  20   0   10872   3692   3176 S   4.8   0.1   0:00.59 top
+    1 root      20   0    2060    348    280 S   0.0   0.0   0:39.21 init
+
+System memory parameter values:
+2851.9 -total 259.0 -free 2291.8 -used 301.1 -buff/cashe
+1024.0 -total 511.8 -free 512.2 -used 304.7 -buff/cashe
+
+ 9066 ultimat+  20   0  924304 918668   2896 R 100.0  31.5   3:56.81 bash
+
+ 9064 ultimat+  20   0  916648 911220   3112 R 100.0  31.2   3:56.98 bash
+ 9066 ultimat+  20   0  924832 919196   2896 R 100.0  31.5   3:56.97 bash
+    1 root      20   0    2408    436    280 S   0.0   0.0   0:39.33 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 147.5 -free 2403.2 -used 301.2 -buff/cashe
+1024.0 -total 511.8 -free 512.2 -used 193.7 -buff/cashe
+
+ 9066 ultimat+  20   0  981724 975956   2896 R 100.0  33.4   4:12.60 bash
+
+ 9064 ultimat+  20   0  973408 967980   3112 R 100.0  33.1   4:12.76 bash
+ 9066 ultimat+  20   0  982252 976748   2896 R 100.0  33.4   4:12.75 bash
+    1 root      20   0    2496    332    280 S   0.0   0.0   0:39.39 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 66.4 -free 2519.2 -used 266.4 -buff/cashe
+1024.0 -total 501.2 -free 522.8 -used 87.5 -buff/cashe
+
+ 9066 ultimat+  20   0 1040860   1.0g   2896 R  93.8  35.5   4:28.41 bash
+
+ 9064 ultimat+  20   0 1032148   1.0g   3112 R 100.0  35.2   4:28.57 bash
+ 9066 ultimat+  20   0 1041388   1.0g   2896 R 100.0  35.5   4:28.57 bash
+    1 root      20   0    1972    152    104 S   0.0   0.0   0:39.40 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 84.9 -free 2602.4 -used 164.6 -buff/cashe
+1024.0 -total 437.5 -free 586.5 -used 40.7 -buff/cashe
+
+ 9066 ultimat+  20   0 1100656   1.0g   2472 R 100.0  37.0   4:44.21 bash
+
+ 9064 ultimat+  20   0 1091416   1.0g   2684 R 100.0  36.7   4:44.36 bash
+ 9066 ultimat+  20   0 1101316   1.0g   2472 R 100.0  37.0   4:44.36 bash
+    1 root      20   0    1972     32      0 S   0.0   0.0   0:39.40 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 82.2 -free 2598.4 -used 171.3 -buff/cashe
+1024.0 -total 305.4 -free 718.6 -used 41.1 -buff/cashe
+
+ 9066 ultimat+  20   0 1160584   1.0g   2472 R 100.0  36.7   5:00.01 bash
+
+ 9064 ultimat+  20   0 1150948   1.0g   2684 R 100.0  36.4   5:00.17 bash
+ 9066 ultimat+  20   0 1161244   1.0g   2472 R 100.0  36.7   5:00.17 bash
+    1 root      20   0    1972     32      0 S   0.0   0.0   0:39.40 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 131.4 -free 2561.5 -used 159.1 -buff/cashe
+1024.0 -total 123.5 -free 900.5 -used 84.8 -buff/cashe
+
+ 9066 ultimat+  20   0 1211536   1.0g   2328 R  87.5  35.3   5:16.55 bash
+
+ 9066 ultimat+  20   0 1212064   1.0g   2328 R  83.3  35.3   5:17.02 bash
+ 9064 ultimat+  20   0 1201504 997.2m   2504 R  72.2  35.0   5:17.12 bash
+    1 root      20   0    1972     32      0 S   0.0   0.0   0:39.40 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 70.6 -free 2596.6 -used 184.7 -buff/cashe
+1024.0 -total 124.0 -free 900.0 -used 35.6 -buff/cashe
+
+ 9066 ultimat+  20   0 1260376   1.0g   2328 R 100.0  36.9   5:32.67 bash
+
+ 9064 ultimat+  20   0 1249024   1.0g   2504 R 100.0  36.6   5:32.94 bash
+ 9066 ultimat+  20   0 1260904   1.0g   2328 R 100.0  36.9   5:32.83 bash
+    1 root      20   0    1972     32      0 S   0.0   0.0   0:39.40 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 71.4 -free 2600.6 -used 179.9 -buff/cashe
+1024.0 -total 37.0 -free 987.0 -used 34.3 -buff/cashe
+
+ 9066 ultimat+  20   0 1319512   1.0g   2328 R 100.0  37.1   5:48.47 bash
+
+ 9064 ultimat+  20   0 1307368   1.0g   2504 R 100.0  36.6   5:48.72 bash
+ 9066 ultimat+  20   0 1319908   1.0g   2328 R 100.0  37.0   5:48.62 bash
+    1 root      20   0    1972     32      0 S   0.0   0.0   0:39.40 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+  123 root      20   0    1752     12      0 S   0.0   0.0   0:00.02 init
+
+System memory parameter values:
+2851.9 -total 72.9 -free 2649.6 -used 129.5 -buff/cashe
+1024.0 -total 0.0 -free 1024.0 -used 13.1 -buff/cashe
+
+ 9066 ultimat+  20   0 1365580   1.1g      0 D   2.3  38.3   6:03.17 bash
+
+ 9064 ultimat+  20   0 1353700   1.1g      0 R   8.3  38.0   6:04.01 bash
+ 9066 ultimat+  20   0 1367032   1.1g    936 R   7.3  38.3   6:03.93 bash
+  134 ultimat+  20   0  764008  16164      0 S   3.1   0.6   0:36.99 docker
+    1 root      20   0    1972     32      0 S   0.0   0.0   0:39.40 init
+  122 root      20   0    1752      4      0 S   0.0   0.0   0:00.00 init
+
+System memory parameter values:
+2851.9 -total 1123.1 -free 1550.0 -used 178.8 -buff/cashe
+1024.0 -total 215.8 -free 808.2 -used 1066.0 -buff/cashe
+
+[17574.346095] Out of memory: Killed process 10754 (bash) total-vm:1373896kB, anon-rss:1125708kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:2728kB oom_score_adj:0
+[17574.521337] oom_reaper: reaped process 10754 (bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB

@@ -1,0 +1,15 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0   2288  1176 ?        Sl   17:38   0:06 /init
+root       125  0.0  0.0   1752    72 ?        Ss   17:38   0:00 /init
+root       126  0.0  0.0   1752    80 ?        S    17:38   0:00 /init
+root       127  0.0  1.0 1384128 29748 pts/0   Ssl+ 17:38   0:00 /mnt/wsl/docker-desktop/docker-desktop-proxy --distro-name Ubuntu-20.04 --docker-desktop-root /mnt/wsl/docker-desktop
+root       137  0.0  0.0   1752    80 ?        S    17:38   0:00 /init
+ultimat+   138  0.0  1.6 763752 48932 pts/1    Ssl+ 17:38   0:01 docker serve --address unix:///home/ultimatereo/.docker/run/docker-cli-api.sock
+root       407  0.0  0.0   1852   176 ?        Ss   18:31   0:00 /init
+root       408  0.0  0.0   1852   176 ?        S    18:31   0:00 /init
+ultimat+   409  0.0  0.1  10164  5420 pts/2    Ss+  18:31   0:00 -bash
+root      2635  0.0  0.0   2288   444 ?        Ss   18:57   0:00 /init
+root      2636  0.0  0.0   2288   444 ?        S    18:57   0:00 /init
+ultimat+  2637  0.0  0.2  11564  6876 pts/3    Ss   18:57   0:00 -bash
+ultimat+ 27721  0.0  0.1   8620  3308 pts/3    S+   19:51   0:00 bash task6.bash
+ultimat+ 27764  0.0  0.1  10616  3284 pts/3    R+   19:51   0:00 ps uax
