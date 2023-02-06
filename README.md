@@ -10,6 +10,9 @@
 [Kotlin Project](https://github.com/Ultimatereo/FairyOfEmotionsBot)
 ----
 
+[OS](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/OS)
+----
+
 [Алгоритмы и структуры данных](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms)
 ----
   
