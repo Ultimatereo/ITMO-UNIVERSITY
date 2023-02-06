@@ -6,6 +6,10 @@
 [Парадигмы программирования](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/paradigms)
 ----
 
+[Kotlin 1&2 HW](https://github.com/Ultimatereo/kotlin-itmo-2022)
+[Kotlin Project](https://github.com/Ultimatereo/FairyOfEmotionsBot)
+----
+
 [Алгоритмы и структуры данных](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms)
 ----
   
