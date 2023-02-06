@@ -17,18 +17,20 @@
 ----
   
   * *1 Лабараторная работа. Сортировки, куча, бинпоиск.*
-      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/algorithms/1st-course/lab1/problem.pdf)
-      * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/lab1)
+      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/algorithms/sem1/lab1/problem.pdf)
+      * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/sem1/lab1)
   * *2 Лабараторная работа. Стеки, очереди, СНМ*
-      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/lab2/problem.pdf)
-      * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/lab2)  
+      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/sem1/lab2/problem.pdf)
+      * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/sem1/lab2)  
   * *3 Лабараторная работа. Динамическое программирование*
-      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/lab3/problem.pdf)
-      * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/lab3)       
+      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/sem1/lab3/problem.pdf)
+      * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/sem1/lab3)       
   * *Лабараторная работа за второй семестр. Деревья.*
-      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/sem2/problem.pdf)
-      * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/1st-course/sem2)    
-      
+      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/sem2/problem.pdf)
+      * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/algorithms/sem2)    
+  * *Лабараторная работа за третий семестр. Графы.*
+      * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/algorithms/sem3/problems.pdf)
+      * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/blob/main/algorithms/sem3)    
  
 [Дискретная математика](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/discrete-math)
 ----
