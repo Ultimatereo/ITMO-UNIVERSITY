@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaAdvanced.iml" filepath="$PROJECT_DIR$/JavaAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.arrayset/info.kgeorgiy.java.advanced.arrayset.iml" filepath="$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.arrayset/info.kgeorgiy.java.advanced.arrayset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.base/info.kgeorgiy.java.advanced.base.iml" filepath="$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.base/info.kgeorgiy.java.advanced.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.concurrent/info.kgeorgiy.java.advanced.concurrent.iml" filepath="$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.concurrent/info.kgeorgiy.java.advanced.concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.crawler/info.kgeorgiy.java.advanced.crawler.iml" filepath="$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.crawler/info.kgeorgiy.java.advanced.crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.hello/info.kgeorgiy.java.advanced.hello.iml" filepath="$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.hello/info.kgeorgiy.java.advanced.hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.implementor/info.kgeorgiy.java.advanced.implementor.iml" filepath="$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.implementor/info.kgeorgiy.java.advanced.implementor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.mapper/info.kgeorgiy.java.advanced.mapper.iml" filepath="$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.mapper/info.kgeorgiy.java.advanced.mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.student/info.kgeorgiy.java.advanced.student.iml" filepath="$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.student/info.kgeorgiy.java.advanced.student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.walk/info.kgeorgiy.java.advanced.walk.iml" filepath="$PROJECT_DIR$/shared/modules/info.kgeorgiy.java.advanced.walk/info.kgeorgiy.java.advanced.walk.iml" />
+    </modules>
+  </component>
+</project>
