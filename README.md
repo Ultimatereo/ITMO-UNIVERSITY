@@ -91,10 +91,10 @@
 
 ### [Линейная алгебра](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/sem1/linear-algebra)
 
-  * *Лабораторная работа 1. Матричные операции*
+  * *1 Лабораторная работа. Матричные операции*
       * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/sem1/linear-algebra/Lab_1.pdf)
       * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/sem1/linear-algebra/lab1.py)
-  * *Лабораторная работа 2. Веселый канонир*
+  * *2 Лабораторная работа. Веселый канонир*
       * [Условия](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/sem1/linear-algebra/Lab_2-3.pdf)
       * [Реализация](https://github.com/Ultimatereo/ITMO-UNIVERSITY/tree/main/sem1/linear-algebra/lab2.py)
      
