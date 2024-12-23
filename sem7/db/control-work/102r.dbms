@@ -1,0 +1,1 @@
+proj{TeamName}(select{UnivName = :UnivName}(Teams njoin Universities))

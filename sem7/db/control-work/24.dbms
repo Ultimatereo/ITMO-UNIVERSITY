@@ -1,0 +1,7 @@
+solved(ContestId, Letter, UnivId) :-
+    Teams(TeamId, _, UnivId),
+    Sessions(SessionId, TeamId, ContestId, _),
+    Runs(_, SessionId, Letter, _, 1).
+unsolved(ContestId, Letter) :-
+    Problems(ContestId, Letter, _),
+    not solved(ContestId, Letter, :UnivId).

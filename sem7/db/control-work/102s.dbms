@@ -1,0 +1,4 @@
+SELECT T.TeamName
+FROM Teams T
+JOIN Universities U ON T.UnivId = U.UnivId
+WHERE U.UnivName = :UnivName;

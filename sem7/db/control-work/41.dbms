@@ -1,0 +1,4 @@
+SELECT SessionId, COUNT(DISTINCT Letter) as Solved
+FROM Runs
+WHERE Accepted = 1
+GROUP BY SessionId;

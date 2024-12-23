@@ -1,0 +1,4 @@
+SELECT DISTINCT s.TeamId
+FROM Sessions s
+JOIN Runs r ON s.SessionId = r.SessionId
+WHERE s.ContestId = :ContestId AND r.Accepted = 1;

@@ -1,0 +1,3 @@
+proj{RunId, SessionId, Letter, SubmitTime, Accepted}(
+  select{TeamId = :TeamId && ContestId = :ContestId}(Runs njoin Sessions)
+)

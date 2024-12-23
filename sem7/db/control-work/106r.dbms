@@ -1,0 +1,6 @@
+proj{TeamName}(
+  proj{TeamId, TeamName}(Teams) diff
+  proj{TeamId, TeamName}(
+    select{ContestId = :ContestId}(Teams njoin Sessions njoin Runs)
+  )
+)

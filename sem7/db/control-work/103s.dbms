@@ -1,0 +1,4 @@
+SELECT R.RunId, R.SessionId, R.Letter, R.SubmitTime, R.Accepted
+FROM Runs R
+JOIN Sessions S ON R.SessionId = S.SessionId
+WHERE S.TeamId = :TeamId AND S.ContestId = :ContestId;

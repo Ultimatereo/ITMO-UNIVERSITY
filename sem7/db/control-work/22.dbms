@@ -1,0 +1,5 @@
+teams(TeamName) :- 
+    Teams(_, TeamName, _),
+    Sessions(SessionId, TeamId, :ContestId, _),
+    Teams(TeamId, TeamName, _),
+    Runs(_, SessionId, :Letter, _, 1).

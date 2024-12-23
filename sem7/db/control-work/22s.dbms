@@ -1,0 +1,5 @@
+SELECT DISTINCT t.TeamName
+FROM Teams t
+JOIN Sessions s ON t.TeamId = s.TeamId
+JOIN Runs r ON s.SessionId = r.SessionId
+WHERE s.ContestId = :ContestId AND r.Letter = :Letter AND r.Accepted = 1;

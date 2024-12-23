@@ -1,0 +1,12 @@
+SELECT S.SessionId
+FROM Sessions S
+WHERE NOT EXISTS (
+    SELECT Letter
+    FROM Problems P
+    WHERE NOT EXISTS (
+        SELECT 1
+        FROM Runs R
+        WHERE R.SessionId = S.SessionId
+        AND R.Letter = P.Letter
+    ) AND P.ContestId = S.ContestId
+);

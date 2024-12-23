@@ -1,0 +1,5 @@
+SELECT DISTINCT u.UnivName
+FROM Universities u
+JOIN Teams t ON u.UnivId = t.UnivId
+JOIN Sessions s ON t.TeamId = s.TeamId
+WHERE s.ContestId = :ContestId;

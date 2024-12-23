@@ -1,0 +1,3 @@
+SELECT TeamId
+FROM Teams
+WHERE UnivId = :UnivId;

@@ -1,0 +1,51 @@
+Mirzomansurkhon Sultanov
+ProcessLamportMutex
+#actions
+{1 SEND 2} 2, REQ, 1
+{2 SEND 1} 4, OK
+{2 SEND 1} 2, REQ, 1
+{1 SEND 2} 8, OK
+{1 SEND 2} 10, REQ, 9
+{2 SEND 1} 12, OK
+{1 SEND 2} 6, REL
+{2 SEND 1} 15, REQ, 14
+{2 SEND 1} 13, REL
+{1 SEND 2} 17, OK
+#process 1
+0 LockRequest
+40 {1 SEND 2} 2, REQ, 1
+160 {1 RCVD 2} 4, OK
+200 Lock
+240 Unlock
+280 {1 SEND 2} 6, REL
+320 {1 RCVD 2} 2, REQ, 1
+360 {1 SEND 2} 8, OK
+400 LockRequest
+440 {1 SEND 2} 10, REQ, 9
+560 {1 RCVD 2} 12, OK
+735 {1 RCVD 2} 15, REQ, 14
+774 {1 SEND 2} 17, OK
+840 Lock
+880 Unlock
+925 {1 SEND 2} 18, REL
+960 {1 RCVD 2} 13, REL
+1000 LockRequest
+1040 {1 SEND 2} 21, REQ, 20
+#process 2
+0 LockRequest
+40 {2 SEND 1} 2, REQ, 1
+80 {2 RCVD 1} 2, REQ, 1
+120 {2 SEND 1} 4, OK
+400 {2 RCVD 1} 8, OK
+480 {2 RCVD 1} 10, REQ, 9
+520 {2 SEND 1} 12, OK
+560 Lock
+600 Unlock
+640 {2 SEND 1} 13, REL
+680 LockRequest
+720 {2 SEND 1} 15, REQ, 14
+760 {2 RCVD 1} 6, REL
+786 {2 RCVD 1} 17, OK
+854 Lock
+894 Unlock
+941 {2 SEND 1} 19, REL

@@ -1,0 +1,11 @@
+SELECT DISTINCT T.TeamName
+FROM Teams T
+WHERE T.TeamId IN (
+  SELECT DISTINCT S.TeamId
+  FROM Sessions S
+  WHERE S.SessionId NOT IN (
+    SELECT DISTINCT R.SessionId
+    FROM Runs R
+    WHERE R.Accepted = 1
+  )
+);

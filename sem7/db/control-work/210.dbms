@@ -1,0 +1,56 @@
+contest_universities(UnivName) :- 
+    Universities(UnivId, UnivName),
+    Teams(TeamId, _, UnivId),
+    Sessions(_, TeamId, ContestId, _),
+    ContestId = :ContestId.
+
+SELECT DISTINCT U.UnivName
+FROM Universities U, Teams T, Sessions S
+WHERE U.UnivId = T.UnivId 
+AND T.TeamId = S.TeamId
+AND S.ContestId = :ContestId;
+
+teams(TeamName) :- 
+    Teams(_, TeamName, _),
+    Sessions(SessionId, TeamId, :ContestId, _),
+    Teams(TeamId, TeamName, _),
+    Runs(_, SessionId, :Letter, _, 1).
+
+SELECT DISTINCT T.TeamName
+FROM Teams T, Sessions S, Runs R
+WHERE T.TeamId = S.TeamId 
+AND S.SessionId = R.SessionId
+AND R.Accepted = 1
+AND S.ContestId = :ContestId
+AND R.Letter = :Letter;
+
+team(TeamId) :-
+    Sessions(SessionId, TeamId, :ContestId, _), 
+    Runs(_, SessionId, _, _, 1).
+
+SELECT DISTINCT S.TeamId
+FROM Sessions S, Runs R
+WHERE S.SessionId = R.SessionId
+AND S.ContestId = :ContestId
+AND R.Accepted = 1;
+
+solved(ContestId, Letter, UnivId) :-
+    Teams(TeamId, _, UnivId),
+    Sessions(SessionId, TeamId, ContestId, _),
+    Runs(_, SessionId, Letter, _, 1).
+unsolved(ContestId, Letter) :-
+    Problems(ContestId, Letter, _),
+    not solved(ContestId, Letter, :UnivId).
+
+SELECT P.ContestId, P.Letter
+FROM Problems P
+WHERE NOT EXISTS (
+    SELECT 1
+    FROM Teams T, Sessions S, Runs R
+    WHERE T.UnivId = :UnivId
+    AND T.TeamId = S.TeamId
+    AND S.ContestId = P.ContestId
+    AND S.SessionId = R.SessionId
+    AND R.Letter = P.Letter
+    AND R.Accepted = 1
+);

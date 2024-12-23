@@ -1,0 +1,8 @@
+proj{TeamName} (
+  proj{TeamId, TeamName}(
+    Teams njoin (select{UnivName = :UnivName}(Universities))
+  ) diff
+  proj{TeamId, TeamName}(
+    Teams njoin (select{UnivName = :UnivName}(Universities)) njoin Sessions njoin select{Accepted = 1}(Runs)
+  )
+)

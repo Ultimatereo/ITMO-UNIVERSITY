@@ -1,0 +1,13 @@
+SELECT DISTINCT U.UnivName
+FROM Universities U
+JOIN Teams T ON U.UnivId = T.UnivId
+WHERE T.TeamId IN (
+  SELECT DISTINCT S.TeamId
+  FROM Sessions S
+  WHERE S.TeamId NOT IN (
+    SELECT DISTINCT S.TeamId
+    FROM Sessions S
+    JOIN Runs R ON S.SessionId = R.SessionId
+    WHERE R.Accepted = 1
+  )
+);

@@ -1,0 +1,5 @@
+contest_universities(UnivName) :- 
+    Universities(UnivId, UnivName),
+    Teams(TeamId, _, UnivId),
+    Sessions(_, TeamId, ContestId, _),
+    ContestId = :ContestId.

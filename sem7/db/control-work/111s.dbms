@@ -1,0 +1,13 @@
+SELECT T.TeamName
+FROM Teams T
+WHERE EXISTS (
+  SELECT 1
+  FROM Sessions S
+  WHERE S.TeamId = T.TeamId
+  AND NOT EXISTS (
+    SELECT 1
+    FROM Runs R
+    WHERE R.SessionId = S.SessionId
+    AND R.Accepted = 1
+  )
+);

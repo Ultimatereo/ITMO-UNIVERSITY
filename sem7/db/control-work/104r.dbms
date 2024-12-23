@@ -1,0 +1,5 @@
+proj{RunId, SessionId, Letter, SubmitTime}(
+  select{ContestId = :ContestId ⋀ Accepted = 1}(
+    Runs ⋈ Sessions
+  )
+)

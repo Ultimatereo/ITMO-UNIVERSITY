@@ -1,0 +1,9 @@
+SELECT TeamName
+FROM Teams
+WHERE TeamId NOT IN (
+    SELECT DISTINCT T.TeamId
+    FROM Teams T
+    JOIN Sessions S ON T.TeamId = S.TeamId
+    JOIN Runs R ON S.SessionId = R.SessionId
+    WHERE S.ContestId = :ContestId
+);

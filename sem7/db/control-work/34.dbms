@@ -1,0 +1,14 @@
+UPDATE Runs 
+SET Accepted = 1
+WHERE RunId IN (
+    SELECT R1.RunId
+    FROM Runs R1
+    JOIN Sessions S ON R1.SessionId = S.SessionId
+    JOIN Teams T ON S.TeamId = T.TeamId
+    WHERE T.UnivId = :UnivId
+    AND R1.SubmitTime = (
+        SELECT MAX(R2.SubmitTime)
+        FROM Runs R2 
+        WHERE R2.SessionId = R1.SessionId
+    )
+);

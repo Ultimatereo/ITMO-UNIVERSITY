@@ -1,0 +1,9 @@
+INSERT INTO Sessions (TeamId, ContestId, Start)
+SELECT T.TeamId, :ContestId, current_timestamp
+FROM Teams T
+WHERE NOT EXISTS (
+    SELECT S.TeamId 
+    FROM Sessions S 
+    WHERE S.TeamId = T.TeamId 
+    AND S.ContestId = :ContestId
+);
