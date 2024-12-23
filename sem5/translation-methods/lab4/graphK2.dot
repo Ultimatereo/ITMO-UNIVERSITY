@@ -1,0 +1,39 @@
+digraph ParserResult {
+"NonTerminal[name=S]_60" [label="S; null"]
+"Token{name='FUN', value='fun'}_48" [label="FUN; null"]
+"NonTerminal[name=S]_60"->"Token{name='FUN', value='fun'}_48";
+"Token{name='FUN', value='fun'}_48" [label="FUN; null"]
+"NonTerminal[name=FN]_50" [label="FN; null"]
+"NonTerminal[name=S]_60"->"NonTerminal[name=FN]_50";
+"NonTerminal[name=FN]_50" [label="FN; null"]
+"Token{name='name', value='a'}_49" [label="name; null"]
+"NonTerminal[name=FN]_50"->"Token{name='name', value='a'}_49";
+"Token{name='name', value='a'}_49" [label="name; null"]
+"Token{name='(', value='('}_51" [label="(; null"]
+"NonTerminal[name=S]_60"->"Token{name='(', value='('}_51";
+"Token{name='(', value='('}_51" [label="(; null"]
+"NonTerminal[name=FA]_57" [label="FA; null"]
+"NonTerminal[name=S]_60"->"NonTerminal[name=FA]_57";
+"NonTerminal[name=FA]_57" [label="FA; null"]
+"Token{name='name', value='d'}_52" [label="name; null"]
+"NonTerminal[name=FA]_57"->"Token{name='name', value='d'}_52";
+"Token{name='name', value='d'}_52" [label="name; null"]
+"Token{name=':', value=':'}_53" [label=":; null"]
+"NonTerminal[name=FA]_57"->"Token{name=':', value=':'}_53";
+"Token{name=':', value=':'}_53" [label=":; null"]
+"NonTerminal[name=T]_55" [label="T; null"]
+"NonTerminal[name=FA]_57"->"NonTerminal[name=T]_55";
+"NonTerminal[name=T]_55" [label="T; null"]
+"Token{name='name', value='Int'}_54" [label="name; null"]
+"NonTerminal[name=T]_55"->"Token{name='name', value='Int'}_54";
+"Token{name='name', value='Int'}_54" [label="name; null"]
+"NonTerminal[name=FAC]_56" [label="FAC; null"]
+"NonTerminal[name=FA]_57"->"NonTerminal[name=FAC]_56";
+"NonTerminal[name=FAC]_56" [label="FAC; null"]
+"Token{name=')', value=')'}_58" [label="); null"]
+"NonTerminal[name=S]_60"->"Token{name=')', value=')'}_58";
+"Token{name=')', value=')'}_58" [label="); null"]
+"NonTerminal[name=RT]_59" [label="RT; null"]
+"NonTerminal[name=S]_60"->"NonTerminal[name=RT]_59";
+"NonTerminal[name=RT]_59" [label="RT; null"]
+}

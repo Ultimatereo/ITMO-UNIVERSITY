@@ -1,0 +1,75 @@
+digraph ParserResult {
+"NonTerminal[name=S]_47" [label="S; null"]
+"Token{name='FUN', value='fun'}_23" [label="FUN; null"]
+"NonTerminal[name=S]_47"->"Token{name='FUN', value='fun'}_23";
+"Token{name='FUN', value='fun'}_23" [label="FUN; null"]
+"NonTerminal[name=FN]_25" [label="FN; null"]
+"NonTerminal[name=S]_47"->"NonTerminal[name=FN]_25";
+"NonTerminal[name=FN]_25" [label="FN; null"]
+"Token{name='name', value='aboba'}_24" [label="name; null"]
+"NonTerminal[name=FN]_25"->"Token{name='name', value='aboba'}_24";
+"Token{name='name', value='aboba'}_24" [label="name; null"]
+"Token{name='(', value='('}_26" [label="(; null"]
+"NonTerminal[name=S]_47"->"Token{name='(', value='('}_26";
+"Token{name='(', value='('}_26" [label="(; null"]
+"NonTerminal[name=FA]_44" [label="FA; null"]
+"NonTerminal[name=S]_47"->"NonTerminal[name=FA]_44";
+"NonTerminal[name=FA]_44" [label="FA; null"]
+"Token{name='name', value='a'}_27" [label="name; null"]
+"NonTerminal[name=FA]_44"->"Token{name='name', value='a'}_27";
+"Token{name='name', value='a'}_27" [label="name; null"]
+"Token{name=':', value=':'}_28" [label=":; null"]
+"NonTerminal[name=FA]_44"->"Token{name=':', value=':'}_28";
+"Token{name=':', value=':'}_28" [label=":; null"]
+"NonTerminal[name=T]_30" [label="T; null"]
+"NonTerminal[name=FA]_44"->"NonTerminal[name=T]_30";
+"NonTerminal[name=T]_30" [label="T; null"]
+"Token{name='name', value='Int'}_29" [label="name; null"]
+"NonTerminal[name=T]_30"->"Token{name='name', value='Int'}_29";
+"Token{name='name', value='Int'}_29" [label="name; null"]
+"NonTerminal[name=FAC]_43" [label="FAC; null"]
+"NonTerminal[name=FA]_44"->"NonTerminal[name=FAC]_43";
+"NonTerminal[name=FAC]_43" [label="FAC; null"]
+"Token{name=',', value=','}_31" [label=",; null"]
+"NonTerminal[name=FAC]_43"->"Token{name=',', value=','}_31";
+"Token{name=',', value=','}_31" [label=",; null"]
+"Token{name='name', value='b'}_32" [label="name; null"]
+"NonTerminal[name=FAC]_43"->"Token{name='name', value='b'}_32";
+"Token{name='name', value='b'}_32" [label="name; null"]
+"Token{name=':', value=':'}_33" [label=":; null"]
+"NonTerminal[name=FAC]_43"->"Token{name=':', value=':'}_33";
+"Token{name=':', value=':'}_33" [label=":; null"]
+"NonTerminal[name=T]_35" [label="T; null"]
+"NonTerminal[name=FAC]_43"->"NonTerminal[name=T]_35";
+"NonTerminal[name=T]_35" [label="T; null"]
+"Token{name='name', value='Int'}_34" [label="name; null"]
+"NonTerminal[name=T]_35"->"Token{name='name', value='Int'}_34";
+"Token{name='name', value='Int'}_34" [label="name; null"]
+"NonTerminal[name=FAC]_42" [label="FAC; null"]
+"NonTerminal[name=FAC]_43"->"NonTerminal[name=FAC]_42";
+"NonTerminal[name=FAC]_42" [label="FAC; null"]
+"Token{name=',', value=','}_36" [label=",; null"]
+"NonTerminal[name=FAC]_42"->"Token{name=',', value=','}_36";
+"Token{name=',', value=','}_36" [label=",; null"]
+"Token{name='name', value='c'}_37" [label="name; null"]
+"NonTerminal[name=FAC]_42"->"Token{name='name', value='c'}_37";
+"Token{name='name', value='c'}_37" [label="name; null"]
+"Token{name=':', value=':'}_38" [label=":; null"]
+"NonTerminal[name=FAC]_42"->"Token{name=':', value=':'}_38";
+"Token{name=':', value=':'}_38" [label=":; null"]
+"NonTerminal[name=T]_40" [label="T; null"]
+"NonTerminal[name=FAC]_42"->"NonTerminal[name=T]_40";
+"NonTerminal[name=T]_40" [label="T; null"]
+"Token{name='name', value='String'}_39" [label="name; null"]
+"NonTerminal[name=T]_40"->"Token{name='name', value='String'}_39";
+"Token{name='name', value='String'}_39" [label="name; null"]
+"NonTerminal[name=FAC]_41" [label="FAC; null"]
+"NonTerminal[name=FAC]_42"->"NonTerminal[name=FAC]_41";
+"NonTerminal[name=FAC]_41" [label="FAC; null"]
+"Token{name=')', value=')'}_45" [label="); null"]
+"NonTerminal[name=S]_47"->"Token{name=')', value=')'}_45";
+"Token{name=')', value=')'}_45" [label="); null"]
+"NonTerminal[name=RT]_46" [label="RT; null"]
+"NonTerminal[name=S]_47"->"NonTerminal[name=RT]_46";
+"NonTerminal[name=RT]_46" [label="RT; null"]
+}

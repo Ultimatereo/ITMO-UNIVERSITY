@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">itmo-example</string>
+    <string name="_50ms">50ms</string>
+    <string name="_100ms">100ms</string>
+    <string name="_300ms">300ms</string>
+    <string name="_500ms">500ms</string>
+    <string name="start">Start</string>
+    <string name="restart">Restart</string>
+    <string name="thread_and_runnable_implementation">Thread And Runnable Implementation</string>
+    <string name="rxjava_implemetation">RXJava Implemetation</string>
+</resources>

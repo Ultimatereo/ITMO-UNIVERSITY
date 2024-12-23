@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email_hint">البريد الإلكتروني</string>
+    <string name="password_hint">كلمة المرور</string>
+    <string name="show_password">عرض كلمة المرور</string>
+    <string name="login_button">تسجيل الدخول</string>
+    <string name="app_name">التفويض</string>
+    <string name="error_empty_fields">الرجاء ملء جميع الحقول</string>
+    <string name="error_invalid_email">الرجاء إدخال عنوان بريد إلكتروني صحيح</string>
+    <string name="error_short_password">يجب أن تحتوي كلمة المرور على ما لا يقل عن %1$d أحرف</string>
+    <string name="success_authorization">حدث تسجيل دخول ناجح!</string>
+    <string name="auth_screen_title">اليوم الأكثر بهجة!</string>
+    <string name="auth_screen_content">حاولت أن أجعل هذا التطبيق جميلا ويعمل؛)</string>
+    <string name="change_theme">الموضوع</string>
+</resources>

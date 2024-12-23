@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">itmo-example</string>
+    <string name="_50ms">50ms</string>
+    <string name="_100ms">100ms</string>
+    <string name="_300ms">300ms</string>
+    <string name="_500ms">500ms</string>
+    <string name="start">Start</string>
+    <string name="restart">Restart</string>
+    <string name="coroutines_implementation">Kotlin Coroutines Implementation</string>
+    <string name="flow_implementation">Kotlin Flow Implementation</string>
+    <string name="state_flow_implementation">Kotlin StateFlow Implementation</string>
+</resources>

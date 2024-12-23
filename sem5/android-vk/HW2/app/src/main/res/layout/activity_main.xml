@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/back_primary"
+    android:focusableInTouchMode="true"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textViewGreeting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_xxl"
+        android:fontFamily="@font/stem_bold"
+        android:text="@string/auth_screen_title"
+        android:textColor="?attr/label_primary"
+        android:textSize="@dimen/text_size_xl"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_small"
+        android:fontFamily="@font/stem_bold"
+        android:text="@string/auth_screen_content"
+        android:textColor="?attr/label_tertiary"
+        android:textSize="@dimen/text_size_small"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewGreeting" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayoutEmail"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/dimen_normal"
+        android:layout_marginEnd="@dimen/dimen_normal"
+        android:textColorHint="?attr/label_tertiary"
+        android:theme="@style/EditScreenTextInputLayoutStyle"
+        app:layout_constraintBottom_toTopOf="@+id/textInputLayoutPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <EditText
+            android:id="@+id/editTextEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autofillHints="mail"
+            android:drawableEnd="@drawable/ic_email_white_24dp"
+            android:fontFamily="@font/stem_regular"
+            android:hint="@string/email_hint"
+            android:inputType="textEmailAddress"
+            android:maxLines="1"
+            android:textColor="?attr/label_primary"
+            android:textSize="@dimen/text_size_large" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayoutPassword"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/dimen_normal"
+        android:layout_marginEnd="@dimen/dimen_normal"
+        android:textColorHint="?attr/label_tertiary"
+        android:theme="@style/EditScreenTextInputLayoutStyle"
+        app:layout_constraintBottom_toTopOf="@+id/checkBoxShowPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <EditText
+            android:id="@+id/editTextPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableEnd="@drawable/ic_lock_white_24dp"
+            android:fontFamily="@font/stem_regular"
+            android:hint="@string/password_hint"
+            android:importantForAutofill="no"
+            android:inputType="textPassword"
+            android:maxLines="1"
+            android:textColor="?attr/label_primary"
+            android:textSize="@dimen/text_size_large" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <CheckBox
+        android:id="@+id/checkBoxShowPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:buttonTint="?attr/label_tertiary"
+        android:minHeight="@dimen/dimen_xl"
+        android:text="@string/show_password"
+        android:textColor="?attr/label_tertiary"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayoutLogin"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayoutLogin"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/dimen_xxl"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:textDirection="locale"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <Button
+            android:id="@+id/buttonLogin"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_shape"
+            android:fontFamily="@font/stem_regular"
+            android:minWidth="@dimen/dimen_xxxl"
+            android:text="@string/login_button"
+            android:textAllCaps="false"
+            android:textColor="?attr/label_tertiary"
+            android:textSize="@dimen/text_size_normal"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/themeToggleButton"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dimen_normal"
+            android:background="@drawable/button_shape"
+            android:fontFamily="@font/stem_regular"
+            android:minWidth="@dimen/dimen_xxxl"
+            android:text="@string/change_theme"
+            android:textAllCaps="false"
+            android:textColor="?attr/label_tertiary"
+            android:textSize="@dimen/text_size_normal"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

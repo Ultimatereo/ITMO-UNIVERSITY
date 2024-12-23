@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="login_button">Login</string>
+    <string name="app_name">Authorization</string>
+    <string name="error_empty_fields">Please fill in all fields</string>
+    <string name="error_invalid_email">Please enter a valid email address</string>
+    <string name="error_short_password">Password must be at least %1$d characters long</string>
+    <string name="success_authorization">Successful authorization!</string>
+    <string name="auth_screen_title">Have a nice day!</string>
+    <string name="auth_screen_content">I tried to make this application beautiful and working ;)</string>
+    <string name="change_theme">Theme</string>
+</resources>

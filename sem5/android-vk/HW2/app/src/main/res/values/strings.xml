@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email_hint">Электронная почта</string>
+    <string name="password_hint">Пароль</string>
+    <string name="show_password">Показать пароль</string>
+    <string name="login_button">Вход</string>
+    <string name="app_name">Авторизация</string>
+    <string name="error_empty_fields">Пожалуйста, заполните все поля</string>
+    <string name="error_invalid_email">Пожалуйста, введите корректный адрес электронной почты</string>
+    <string name="error_short_password">Пароль должен содержать минимум %1$d символов</string>
+    <string name="success_authorization">Произошёл успешный вход!</string>
+    <string name="auth_screen_title">Бодрейшего денёчка!</string>
+    <string name="auth_screen_content">Я постарался сделать это приложение красивым и рабочим ;)</string>
+    <string name="change_theme">Тема</string>
+</resources>

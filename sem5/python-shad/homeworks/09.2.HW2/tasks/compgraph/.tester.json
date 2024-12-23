@@ -1,0 +1,8 @@
+{
+    "module_test": true,
+    "coverage" : 95,
+    "run_mypy": true,
+    "test_timeout": 360,
+    "verbose_tests_output": true,
+    "explicit_public_tests": ["tests/correctness", "tests/memory", "resources"]
+}

@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="small">8dp</dimen>
+    <dimen name="average">16dp</dimen>
+    <dimen name="medium_text_size">24sp</dimen>
+    <dimen name="large_text_size">64sp</dimen>
+</resources>

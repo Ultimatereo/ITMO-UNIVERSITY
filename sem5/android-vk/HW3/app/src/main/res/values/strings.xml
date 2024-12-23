@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">itmo-example</string>
+    <string name="number_inside_section">"Number inside section is "</string>
+    <string name="random_number">"Random number is "</string>
+    <string name="create_new_page_in_section">Create new page in section</string>
+    <string name="start">Start!</string>
+    <string name="number_overall">"Number overall is "</string>
+</resources>

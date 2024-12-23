@@ -1,0 +1,45 @@
+digraph ParserResult {
+"S_84" [label="S"]
+"fun_81" [label="fun"]
+"S_84"->"fun_81";
+"fun_81" [label="fun"]
+"G_70" [label="G"]
+"S_84"->"G_70";
+"G_70" [label="G"]
+"FN_72" [label="FN"]
+"S_84"->"FN_72";
+"FN_72" [label="FN"]
+"a_71" [label="a"]
+"FN_72"->"a_71";
+"a_71" [label="a"]
+"(_82" [label="("]
+"S_84"->"(_82";
+"(_82" [label="("]
+"FA_79" [label="FA"]
+"S_84"->"FA_79";
+"FA_79" [label="FA"]
+"d_77" [label="d"]
+"FA_79"->"d_77";
+"d_77" [label="d"]
+":_78" [label=":"]
+"FA_79"->":_78";
+":_78" [label=":"]
+"T_75" [label="T"]
+"FA_79"->"T_75";
+"T_75" [label="T"]
+"Int_74" [label="Int"]
+"T_75"->"Int_74";
+"Int_74" [label="Int"]
+"GP_73" [label="GP"]
+"T_75"->"GP_73";
+"GP_73" [label="GP"]
+"FAC_76" [label="FAC"]
+"FA_79"->"FAC_76";
+"FAC_76" [label="FAC"]
+")_83" [label=")"]
+"S_84"->")_83";
+")_83" [label=")"]
+"RT_80" [label="RT"]
+"S_84"->"RT_80";
+"RT_80" [label="RT"]
+}

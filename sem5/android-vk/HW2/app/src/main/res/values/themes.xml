@@ -1,0 +1,29 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.ItmoExample" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="support_separator">@color/support_light_separator</item>
+        <item name="support_overlay">@color/support_light_overlay</item>
+        <item name="label_primary">@color/label_light_primary</item>
+        <item name="label_secondary">@color/label_light_secondary</item>
+        <item name="label_tertiary">@color/label_light_tertiary</item>
+        <item name="label_disable">@color/label_light_disable</item>
+        <item name="color_red">@color/color_light_red</item>
+        <item name="color_green">@color/color_light_green</item>
+        <item name="color_blue">@color/color_light_blue</item>
+        <item name="color_gray">@color/color_light_gray</item>
+        <item name="color_gray_light">@color/color_light_gray_light</item>
+        <item name="color_white">@color/color_light_white</item>
+        <item name="back_primary">@color/back_light_primary</item>
+        <item name="back_secondary">@color/back_light_secondary</item>
+        <item name="back_elevated">@color/back_light_elevated</item>
+    </style>
+
+    <style name="EditScreenTextInputLayoutStyle" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorControlNormal">?attr/label_tertiary</item>
+        <item name="colorControlActivated">?attr/label_tertiary</item>
+        <item name="colorControlHighlight">?attr/label_tertiary</item>
+        <item name="colorAccent">?attr/label_tertiary</item>
+        <item name="android:textColorHint">?attr/label_tertiary</item>
+    </style>
+</resources>

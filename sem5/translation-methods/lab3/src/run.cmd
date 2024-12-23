@@ -1,0 +1,1 @@
+antlr4 -visitor -o  D:\KT\MT\lab3\src\\antlr\parser\ -package antlr.parser D:\KT\MT\lab3\src\Clojure.g4

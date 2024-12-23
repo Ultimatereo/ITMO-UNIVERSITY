@@ -1,0 +1,33 @@
+START
+
+f
+ds
+fs
+f
+ds
+fs
+df
+s 
+fdsf fdsfsf 
+fdsfs dfsfsfs fdsfsdf
+fs
+fs
+df
+s
+f
+sdf
+s
+fds
+f
+ds
+f
+
+f
+ds
+f
+sf
+s
+fd
+sf
+s
+f
