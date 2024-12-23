@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/clojure/lib/core.specs.alpha-0.2.56.jar!/" />
+      <root url="jar://$PROJECT_DIR$/clojure/lib/clojure-1.10.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/clojure/lib/spec.alpha-0.2.194.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

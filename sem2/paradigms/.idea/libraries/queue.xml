@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="queue">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/artifacts/queue/QueueTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/artifacts/queue/ArrayQueueTest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

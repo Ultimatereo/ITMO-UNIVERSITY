@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="graal">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javascript/graal/graal-sdk-21.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javascript/graal/js-21.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javascript/graal/regex-21.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javascript/graal/icu4j-69.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javascript/graal/truffle-api-21.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javascript/graal/js-scriptengine-21.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
