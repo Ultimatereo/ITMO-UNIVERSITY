@@ -1,71 +1,4 @@
 # Практические задания КТ ИТМО (2021-2025)
-
-## [7 семестр](sem7)
-
-### [Параллельные алгоритмы](sem7/parallel-algorithms)
-### [Базы данных](sem7/db)
-
-## [6 семестр](sem6)
-
-### [Machine Learning](sem6/ml)
-### [Распределённые системы](sem6/pds)
-
-## [5 семестр](sem5)
-
-### [Курс Android от ВК](sem5/android-vk)
-### [Курс Python от ШАД](sem5/python-shad)
-### [Параллельное программирование](sem5/parallel-programming)
-### [Методы трансляции](sem5/translation-methods)
-### [Функциональное программирование](sem5/functional-programming)
-### [Анализ данных](sem5/data-analysis)
-### [Математическая статистика](sem5/statistics)
-
-## [4 семестр](sem4)
-
-### [Java Advanced](sem4/java-advanced)
-### [Математическая логика](sem4/math-logic)
-### [Методы оптимизации](sem4/math-logic)
-### [Алгоритмы и структуры данных](sem4/algorithms)
-     
-  * *Лабараторная работа за четвёртый семестр. Потоки, разрезы.*
-      * [Условия](sem4/algorithms/problems.pdf)
-      * [Реализация](sem4/algorithms)
-
-   
-## [3 семестр](sem3)
-
-### [OS](sem3/os)
-### [Kotlin](sem3/kotlin)
-### [Алгоритмы и структуры данных](sem3/algorithms)
-     
-  * *Лабараторная работа за третий семестр. Графы.*
-      * [Условия](sem3/algorithms/problems.pdf)
-      * [Реализация](sem3/algorithms)
-
-## [2 семестр](sem2)
-
-### [Парадигмы программирования](sem2/paradigms)
-### [C/C++](sem2/c-and-c%2B%2B)
-  * *1 Лабораторная работа. Решение системы уравнений.*
-    * [Условие](sem2/c-and-c%2B%2B/КТ_2022_1.pdf)
-    * [Реализация](sem2/c-and-c%2B%2B/c_1-Ultimatereo)
-  * *2 Лабораторная работа. Декодирование PNG.*
-    * [Условие](sem2/c-and-c%2B%2B/КТ_2022_2.pdf)
-    * [Реализация](sem2/c-and-c%2B%2B/c_2-Ultimatereo)
-  * *3 Лабораторная работа. Сортировка.*
-    * [Условие](sem2/c-and-c%2B%2B/КТ_2022_3.pdf)
-    * [Реализация](sem2/c-and-c%2B%2B/cpp_1-Ultimatereo)
-  * *4 Лабораторная работа. Длинная арифметика.*
-    * [Условие](sem2/c-and-c%2B%2B/КТ_2022_4.pdf)
-    * [Реализация](sem2/c-and-c%2B%2B/cpp_2-Ultimatereo)
-### [Алгоритмы и структуры данных](sem2/algorithms)
-
-     
-  * *Лабараторная работа за второй семестр. Деревья.*
-      * [Условия](sem2/algorithms/problem.pdf)
-      * [Реализация](sem2/algorithms/)
-
-
 ## [1 семестр](sem1)
 
 ### [Введение в программирование](sem1/prog-intro)
@@ -120,3 +53,71 @@
 
   * *[50 Производных из Демидовича и Кудрявцева](sem1/calculus/50%20derivatives.pdf)* *[Исправленная ошибка](sem1/calculus/K13.83%20mistake.pdf)*
 
+## [2 семестр](sem2)
+
+### [Парадигмы программирования](sem2/paradigms)
+### [C/C++](sem2/c-and-c%2B%2B)
+  * *1 Лабораторная работа. Решение системы уравнений.*
+    * [Условие](sem2/c-and-c%2B%2B/КТ_2022_1.pdf)
+    * [Реализация](sem2/c-and-c%2B%2B/c_1-Ultimatereo)
+  * *2 Лабораторная работа. Декодирование PNG.*
+    * [Условие](sem2/c-and-c%2B%2B/КТ_2022_2.pdf)
+    * [Реализация](sem2/c-and-c%2B%2B/c_2-Ultimatereo)
+  * *3 Лабораторная работа. Сортировка.*
+    * [Условие](sem2/c-and-c%2B%2B/КТ_2022_3.pdf)
+    * [Реализация](sem2/c-and-c%2B%2B/cpp_1-Ultimatereo)
+  * *4 Лабораторная работа. Длинная арифметика.*
+    * [Условие](sem2/c-and-c%2B%2B/КТ_2022_4.pdf)
+    * [Реализация](sem2/c-and-c%2B%2B/cpp_2-Ultimatereo)
+### [Алгоритмы и структуры данных](sem2/algorithms)
+
+     
+  * *Лабараторная работа за второй семестр. Деревья.*
+      * [Условия](sem2/algorithms/problem.pdf)
+      * [Реализация](sem2/algorithms/)
+
+## [3 семестр](sem3)
+
+### [OS](sem3/os)
+### [Kotlin](sem3/kotlin)
+### [Алгоритмы и структуры данных](sem3/algorithms)
+     
+  * *Лабараторная работа за третий семестр. Графы.*
+      * [Условия](sem3/algorithms/problems.pdf)
+      * [Реализация](sem3/algorithms)
+   
+## [4 семестр](sem4)
+
+### [Java Advanced](sem4/java-advanced)
+### [Математическая логика](sem4/math-logic)
+### [Методы оптимизации](sem4/math-logic)
+### [Алгоритмы и структуры данных](sem4/algorithms)
+     
+  * *Лабараторная работа за четвёртый семестр. Потоки, разрезы.*
+      * [Условия](sem4/algorithms/problems.pdf)
+      * [Реализация](sem4/algorithms)
+
+## [5 семестр](sem5)
+
+### [Курс Android от ВК](sem5/android-vk)
+### [Курс Python от ШАД](sem5/python-shad)
+### [Параллельное программирование](sem5/parallel-programming)
+### [Методы трансляции](sem5/translation-methods)
+### [Функциональное программирование](sem5/functional-programming)
+### [Анализ данных](sem5/data-analysis)
+### [Математическая статистика](sem5/statistics)
+
+## [6 семестр](sem6)
+
+### [Machine Learning](sem6/ml)
+### [Распределённые системы](sem6/pds)
+
+## [7 семестр](sem7)
+
+### [Параллельные алгоритмы](sem7/parallel-algorithms)
+### [Базы данных](sem7/db)
+### [Теория кодирования](sem7/coding-theory)
+### [Продвинутые алгоритмы. Лабораторная по теории расписаний](sem7/advanced-algorithms)   
+
+## [8 семестр](sem8)
+### [Теория игр](sem8/game-theory)
